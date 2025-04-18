@@ -10,5 +10,10 @@ My specific use case for this was to create a checklist with steps before using 
 
 ### type in box and enter
 
+![image](https://github.com/user-attachments/assets/f4ace0b4-3d83-4f43-94ca-a9c525ade57c)
+
 ### click to delete
+
+![image](https://github.com/user-attachments/assets/b1c22270-f0f1-4a69-a835-8edd77526f73)
+
 
