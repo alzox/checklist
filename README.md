@@ -16,4 +16,7 @@ My specific use case for this was to create a checklist with steps before using 
 
 ![image](https://github.com/user-attachments/assets/b1c22270-f0f1-4a69-a835-8edd77526f73)
 
+## seo
+
+I realize I need to do people a service and try to manipulate Google's algorithm to show this page to others if they are looking for it. I haven't done SEO as it is really a dog whistle for "get rich quick entrepreneurial schemes." They were added, I should probably get into the habit of adding them to future things.
 
